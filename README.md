@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PabloGZ9
 - 👀 CS student at Tecnologico de Monterrey
-- 💻 Junior software developer aspiring to become an expert
+- 💻 Junior software developer aspiring to become an expert developer
 - 👨‍💻 Front-end development, Intermediate c++ and python
 
 <!---
