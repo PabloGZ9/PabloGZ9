@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PabloGZ9
 - 👀 CS student at Tecnologico de Monterrey
 - 💻 Junior software developer aspiring to become an expert developer
-- 👨‍💻 Front-end development, Intermediate c++ and python
+- 👨‍💻 Full-stack development, Intermediate javascript and c++
 
 <!---
 PabloGZ9/PabloGZ9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
