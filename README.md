@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PabloGZ9
 - 👀 CS student at Tecnologico de Monterrey
-- 💻 Cofounder and CTO @niumi.org
+- 💻 Cofounder and CTO @ www.niumi.org
 
 <!---
 PabloGZ9/PabloGZ9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
