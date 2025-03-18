@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PabloGZ9
-- 👀 CS student at Tecnologico de Monterrey
+- 👋 Hi, I’m Pablo Emilio García Zertuche
+- 👀 CS Graduate from Tecnologico de Monterrey - Dec 2024
 - 💻 Cofounder and CTO @ www.niumi.org
 
 <!---
